@@ -16,7 +16,7 @@ export default function About() {
       <Image className="w-6/6" src="/images/about-image.png" height={400} width={400} alt="dragão charizard de costas"></Image>
       <div className="w-6/6 md:flex md:items-center bg-gray-50 rounded-lg p-5 md:px-10">
         <div>
-        <h1 className="text-3xl pb-2 text-stone-800 ">Sobre PokeNext</h1>
+        <h1 className="text-3xl pb-2 text-stone-800 ">Sobre PokeNext...</h1>
         <p>
             Um mini-projeto pessoal feito em Next.js, 
             o objetivo foi criar um site informativo simples e agradável
